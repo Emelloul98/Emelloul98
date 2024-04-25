@@ -1,4 +1,4 @@
-# Hey, Emanuel Melloul here! 👋
+# Welcome to Emanuel's GitHub Profile! 👋
 
 🌱 I’m a third-year software engineering student.
 
