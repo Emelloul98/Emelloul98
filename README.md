@@ -12,7 +12,8 @@
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white&link=mailto:melloul1235@gmail.com)](mailto:melloul1235@gmail.com)
 
 ## Languages and Tools
-
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React&logoColor=black)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
