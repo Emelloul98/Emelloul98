@@ -1,10 +1,8 @@
 # Welcome to Emanuel's GitHub Profile! 👋
 
-🌱 I’m a third-year software engineering student.
+🌱 I’m a fourth-year software engineering student.
 
-👨‍💻 Check my repositories to see my projects.
-
-⚡ Fun fact: I'm passionate about coding and exploring new technologies.
+📄 [My Portfolio](https://emelloul98.github.io/Portfolio-page/#) - View my work and learn more about me!
 
 ## Connect with Me
 
