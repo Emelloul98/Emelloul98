@@ -30,8 +30,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 
 ### Tools
-
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
 ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=CLion&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
@@ -41,4 +40,5 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 
