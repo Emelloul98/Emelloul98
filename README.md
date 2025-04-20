@@ -2,8 +2,6 @@
 
 🌱 I’m a fourth-year software engineering student.
 
-📄 [My Portfolio](https://emelloul98.github.io/Portfolio-page/#) - View my work and learn more about me!
-
 ## Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/emanuel-melloul-496125237/)](https://www.linkedin.com/in/emanuel-melloul-496125237/)
